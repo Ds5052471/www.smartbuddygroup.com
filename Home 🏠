@@ -1,0 +1,353 @@
+<html>
+<DOCTYPE!>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Elegant Themes &raquo; Feed" href="https://www.elegantthemes.com/layouts/feed" />
+<link rel="alternate" type="application/rss+xml" title="Elegant Themes &raquo; Comments Feed" href="https://www.elegantthemes.com/layouts/comments/feed" />
+<meta content="Divi v.4.10.8" name="generator" /><link rel='stylesheet' id='wp-block-library-css' href='https://www.elegantthemes.com/layouts/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.7.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.7.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+</style>
+<link rel='stylesheet' id='et-divi-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Rubik:300,regular,500,600,700,800,900,300italic,italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/style-static.min.css?ver=4.10.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.elegantthemes.com/layouts/wp-json/" /><link rel="alternate" type="application/json" href="https://www.elegantthemes.com/layouts/wp-json/wp/v2/pages/215010" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.elegantthemes.com/layouts/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.elegantthemes.com/layouts/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.1" />
+<meta name="generator" content="WooCommerce 5.7.1" />
+<link rel='shortlink' href='https://www.elegantthemes.com/layouts/?p=215010' />
+<link rel="alternate" type="application/json+oembed" href="https://www.elegantthemes.com/layouts/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elegantthemes.com%2Flayouts%2Ftechnology%2Fhosting-company-landing-page%2Flive-demo" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.elegantthemes.com/layouts/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elegantthemes.com%2Flayouts%2Ftechnology%2Fhosting-company-landing-page%2Flive-demo&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<link rel="icon" href="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" sizes="32x32" />
+<link rel="icon" href="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" />
+<meta name="msapplication-TileImage" content="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" />
+<link rel="stylesheet" id="et-core-unified-215010-cached-inline-styles" href="https://www.elegantthemes.com/layouts/wp-content/et-cache/215010/et-core-unified-215010.min.css?ver=1632170488" /></head>
+<body class="page-template-default page page-id-215010 theme-Divi woocommerce-no-js et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+<div id="page-container">
+<header id="main-header" data-height-onload="66">
+<div class="container clearfix et_menu_container">
+<div class="title_container">
+<h1>
+</ul> </nav>
+<a href="http://smartbuddygroup8tha.freetzi.com/php" class="et-cart-info">
+
+</div>
+</header> 
+<div id="et-main-area">
+<div id="main-content">
+<article id="post-215010" class="post-215010 page type-page status-publish hentry">
+<div class="entry-content">
+<div id="et-boc" class="et-boc">
+<div class="et-l et-l--post">
+<div class="et_builder_inner_content et_pb_gutters3">
+<div class="et_pb_section et_pb_section_0 et_animated et_pb_with_background et_section_regular">
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h1>WELCOME SMART BUDDY GROUP 8TH (A)</h1>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
+<a class="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_dark" href="http://smartbuddygroup8tha.freetzi.com/result.show.com">RESULT </a>
+</div>
+</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
+<span class="et_pb_image_wrap "><script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"a96df807dd937aeb37511248b69ec9ff368a338e-1633015911-259200"};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+<img loading="lazy" width="300" height="300" data-cfsrc="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01.png" alt="" title="" srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01.png 800w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-533x533.png 533w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-400x400.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-510x510.png 510w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-100x100.png 100w" sizes="(max-width: 800px) 100vw, 800px" class="wp-image-214979" style="display:none;visibility:hidden;" /><noscript><img loading="lazy" width="800" height="800" src="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01.png" alt="" title="" srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01.png 800w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-533x533.png 533w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-400x400.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-510x510.png 510w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/1X_Hosting_Illustration_01-100x100.png 100w" sizes="(max-width: 800px) 100vw, 800px" class="wp-image-214979" /></noscript></span>
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2> ATTENDENCE REGRISTION</h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="https://surveyheart.com/form/60f411f1f4b8855b80295483#welcome">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2> ATTENDENCE RECORD</h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="https://surveyheart.com/summary?id=60f411f1f4b8855b80295483">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2> STUDENT CORENER</h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="https://www.punjabeducare.org/main-8th-class">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>.
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h3> RESULTS UPLOAD/STUDENT DETAILS/BUDDY LEDER DETAILS/STUDENT DAILY HOME WORK/CERTIFICATE</h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="http://smartbuddygroup8tha.freetzi.com/result.show.com">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>.
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2> STUDENT NOTICE</h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="http://smartbuddygroup8tha.freetzi.com/Student%20notice">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>.
+
+
+
+
+</div>
+</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+<div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2> PUNJABI NAS SHEET </h2>
+<p>     </p></div>
+</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="https://drive.google.com/folderview?id=1OfNkCM4p9QVpFW4xFqdMhiGV6YK_-MOo">CLICK</a>
+</div>
+</div>
+</div>
+<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+<div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
+
+</div>
+
+
+
+
+</div>.
+
+
+
+</div>.
+</div><div class="et_pb_section et_pb_section_9 et_section_regular">
+<div class="et_pb_row et_pb_row_12">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h3>BUDDY LEADER TEAM</h3></div>
+</div>
+</div>
+</div><div class="et_pb_row et_pb_row_13">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_cta_4 et_animated et_hover_enabled et_pb_promo  et_pb_text_align_left et_pb_bg_layout_dark">
+<div class="et_pb_promo_description"><h5 class="et_pb_module_header">BUDDY/LEDER/NAME</h2><div><p> DEEPAK</p>KRISHNA</p>ABHISHEK</p>KRISHNA SINGLA</p>YASHPREET</p></div></div>
+
+<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="#">TOTAL= 5</a></div>
+</div>
+</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_cta_5 et_animated et_hover_enabled et_pb_promo  et_pb_text_align_left et_pb_bg_layout_dark">
+<div class="et_pb_promo_description"><h5 class="et_pb_module_header">BUDDY/LEADER/NAME</h2><div><p> MANISHA </p>HARMEET</p>NEEMAT SHEIKH</p></div></div>
+<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="#">TOTAL= 3</a></div>
+</div>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div> 
+</article> 
+</div> 
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+<ul class="et-social-icons">
+<li class="et-social-icon et-social-facebook">
+<a href="#" class="icon">
+<span>Facebook</span>
+</a>
+</li>
+<li class="et-social-icon et-social-twitter">
+<a href="#" class="icon">
+<span>Twitter</span>
+</a>
+</li>
+<li class="et-social-icon et-social-rss">
+<a href="https://www.elegantthemes.com/layouts/feed" class="icon">
+<span>RSS</span>
+</a>
+</li>
+</ul><p id="footer-info">Development by <title="Premium WordPress Themes">DEEPAK</a> | Powered by <a href="#">SMART BUDDY GROUP</a></p> </div><!-- BEGIN: Powered by Supercounters.com -->
+<Center><script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1614958,"#99888","e61c1c");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
+</Center>
+<!-- END: Powered by Supercounters.com -->
+
+<!-- BEGIN: Powered by Supercounters.com -->
+<Center><script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1614959,142,5);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+</Center>
+<!-- END: Powered by Supercounters.com -->
+</div>
+</footer>
+</div>
+</div>
+<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_section_0","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"2%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_image_0","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_1","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_0","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"4%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_2","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_1","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"4%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_3","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_2","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"4%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_4","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_3","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"4%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_5","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_pricing_tables_0","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_pricing_tables_1","style":"zoom","repeat":"once","duration":"1000ms","delay":"200ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_pricing_tables_2","style":"zoom","repeat":"once","duration":"1000ms","delay":"400ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_6","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_7","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_testimonial_0","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_testimonial_1","style":"zoom","repeat":"once","duration":"1000ms","delay":"200ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_testimonial_2","style":"zoom","repeat":"once","duration":"1000ms","delay":"400ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_4","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_cta_5","style":"zoom","repeat":"once","duration":"1000ms","delay":"200ms","intensity":"20%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_10","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"}];
+				</script>
+<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.7.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/layouts\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/layouts\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.elegantthemes.com\/layouts\/cart","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.7.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.7.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/layouts\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/layouts\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.7.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/layouts\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/layouts\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_97021550e9eab2d14fdb9c3ac6541ec6","fragment_name":"wc_fragments_97021550e9eab2d14fdb9c3ac6541ec6","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.7.1' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.elegantthemes.com\/layouts\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.elegantthemes.com\/layouts\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.elegantthemes.com\/layouts\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"5a5bf17ae9","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"7e381c4165","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"215010","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/js/scripts.min.js?ver=4.10.8' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.10.8' id='fitvids-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-includes/js/comment-reply.min.js?ver=5.8.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.10.8' id='jquery-mobile-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/hashchange.js?ver=4.10.8' id='hashchange-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.10.8' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.10.8' id='easypiechart-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.10.8' id='salvattore-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/core/admin/js/common.js?ver=4.10.8' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-motion-js-extra'>
+/* <![CDATA[ */
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.10.8' id='et-builder-modules-script-motion-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-sticky-js-extra'>
+/* <![CDATA[ */
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elegantthemes.com/layouts/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.10.8' id='et-builder-modules-script-sticky-js'></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"696e8022ad719697","token":"a595f655f9be4d8cba21c8023304252d","version":"2021.9.0","si":100}'></script>
+</body>
+</html>
